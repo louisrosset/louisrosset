@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+
+Hi, my name is Louis 
+I recently gratuated from EPFL with a Energy Sciences master degree and I am currently looking for a job 🔭
+
+Thanks for stopping by!
 
 <!--
 **louisrosset/louisrosset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
