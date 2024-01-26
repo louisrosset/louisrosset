@@ -14,8 +14,6 @@ Let's connect!
 
 Thanks for stopping by!
 
-![Snake animation](https://github.com/louisrosset/louisrosset/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **louisrosset/louisrosset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
