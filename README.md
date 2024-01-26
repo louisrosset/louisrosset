@@ -1,4 +1,4 @@
-### Welcome 👋
+### Hey there, welcome in my Github profile 👋
 
 Hi, my name is Louis 
 I recently gratuated from EPFL with a Energy Sciences master degree and I am currently looking for a job 🔭
