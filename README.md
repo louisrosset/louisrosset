@@ -2,7 +2,7 @@
   <img src="https://github.com/louisrosset/louisrosset/assets/132441000/43515ba0-ce01-4ad6-a921-aa5d982bfdf8"/>
 </div>
 
-### Hey there, welcome to my Github profile 👋
+### Welcome to my Github profile 👋
 
 Hi, my name is Louis 
 I recently gratuated from EPFL with a Energy Sciences master degree and I am currently looking for a job 🔭
