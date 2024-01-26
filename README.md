@@ -11,7 +11,7 @@ Let's connect!
 &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/louisrosset/louisrosset/assets/132441000/05b7e637-7526-493d-9251-09f378948fdf" height="50"/>](https://www.linkedin.com/in/louisrosset/)
 
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisrosset)](https://github.com/louisrosset/github-readme-stats)
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisrosset&theme=shadow_blue&show_icons=true&hide=prs,contribs)](https://github.com/louisrosset/github-readme-stats)
 
 Thanks for stopping by!
 
