@@ -3,7 +3,18 @@
 Hi, my name is Louis 
 I recently gratuated from EPFL with a Energy Sciences master degree and I am currently looking for a job 🔭
 
+Let's connect!
+
+[<img src="https://github.com/louisrosset/louisrosset/assets/132441000/7855a61b-3c4c-44dd-8603-c881581ad88e" height="50"/>](https://www.instagram.com/louisrosset/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/louisrosset/louisrosset/assets/132441000/293033b2-a6aa-4075-8539-ead006d6e47f" height="45"/>](mailto:louisrosset@live.fr)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/louisrosset/louisrosset/assets/132441000/05b7e637-7526-493d-9251-09f378948fdf" height="50"/>](https://www.linkedin.com/in/louisrosset/)
+
+
 Thanks for stopping by!
+
+![Snake animation](https://github.com/louisrosset/louisrosset/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **louisrosset/louisrosset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
